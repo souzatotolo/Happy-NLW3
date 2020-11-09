@@ -11,9 +11,6 @@ Project developed during the Next Level Week #3 by Rocketseat
 
 <br>
 
-<p align="center">
-  <img alt="Happy" src=".github/happy.png" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
