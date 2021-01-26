@@ -1,6 +1,7 @@
 # Happy-NLW3
 Project developed during the Next Level Week #3 by Rocketseat
 
+<img alt="login" src="web/src/images/landing.svg" width="400px" />
 
 
 <p align="center">
